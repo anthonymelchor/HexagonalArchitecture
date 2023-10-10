@@ -1,2 +1,2 @@
-# HexagonalArchitecture
+# Hexagonal Architecture
 Hexagonal Architecture
