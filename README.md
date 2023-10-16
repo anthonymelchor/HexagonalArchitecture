@@ -7,3 +7,5 @@ Welcome to this project repository! In this project, we have implemented a robus
 - **Python Implementation:** The entire project is written in Python, a versatile and widely-used programming language. We've leveraged Python's readability and flexibility to create a maintainable codebase.
 
 - **Integration Testing with PyTest:** To ensure the reliability and quality of our application, we've integrated comprehensive integration tests. These tests are implemented using the PyTest library, a popular and user-friendly testing framework in the Python ecosystem.
+
+- **JWT Authentication**: This application uses JSON Web Tokens (JWT) for secure authentication. JWTs provide a robust and standardized method for user authentication and authorization. We've implemented JWT-based authentication to ensure data security and user access control.
