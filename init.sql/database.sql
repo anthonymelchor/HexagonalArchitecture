@@ -13,4 +13,4 @@ CREATE TABLE User (
 
 -- Insert data into the "User" table
 INSERT INTO User (name, role, email, password, avatar)
-VALUES ('John Doe', 'customer', 'melchor@gmail.com', '1234', 'default_avatar.jpg');
+VALUES ('John Doe', 'admin', 'melchor@gmail.com', '1234', 'default_avatar.jpg');
